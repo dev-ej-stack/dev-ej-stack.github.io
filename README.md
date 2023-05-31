@@ -25,6 +25,28 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 3. **Développement d'une application de suivi des dépenses** - J'ai créé une application web permettant aux utilisateurs de suivre leurs dépenses et de générer des rapports détaillés. J'ai utilisé Django pour le développement backend et JavaScript pour le frontend.
 
+## Ligne du Temps
+
+<details>
+  <summary>Montrer les détails</summary>
+  
+  - **Jan 2019 - Présent:** Développeur Python chez XYZ Entreprise
+    - Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.
+    - Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.
+    - Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.
+    - Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.
+
+  - **Juin 2018 - Déc 2018:** Stagiaire en Data Science chez ABC Startup
+    - Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.
+    - Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.
+    - Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.
+</details>
+
+## Formation
+
+- **2017 - 2019:** Master en Informatique - Spécialisation en Data Science, Université de Paris
+- **2014 - 2017:** Licence en Finance, Université de Lyon
+
 ## Contact
 
 Si vous souhaitez en savoir plus sur mon travail ou discuter de projets potentiels, n'hésitez pas à me contacter :
