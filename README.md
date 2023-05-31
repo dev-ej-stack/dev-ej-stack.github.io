@@ -28,25 +28,27 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 ## Ligne du Temps
 
 <details>
-<summary><b>Jan 2019 - Présent: Développeur Python chez XYZ Entreprise</b></summary>
+<summary>Details</summary>
+<p>
+	<ul>
+	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
+	    <ul>
+	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
+	      <li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
+	      <li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
+	      <li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
+	    </ul>
+	  </li>
+	  <li><strong>Juin 2018 - Déc 2018:</strong> Stagiaire en Data Science chez ABC Startup
+	    <ul>
+	      <li>Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.</li>
+	      <li>Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.</li>
+	      <li>Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.</li>
+	    </ul>
+	  </li>
+	</ul>
+<\p>
 
-- Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.
-
-- Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.
-
-- Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.
-
-- Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.
-</details>
-
-<details>
-<summary>Juin 2018 - Déc 2018: Stagiaire en Data Science chez ABC Startup</summary>
-
-- Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.
-
-- Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.
-
-- Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.
 </details>
 
 ## Formation
