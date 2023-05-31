@@ -28,20 +28,20 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 ## Ligne du Temps
 
 <details>
-  <summary>Montrer les détails</summary>
+<summary>Montrer les détails</summary>
   
-  - **Jan 2019 - Présent:** Développeur Python chez XYZ Entreprise
-  
-    - Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.
-    - Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.
-    - Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.
-    - Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.
+- **Jan 2019 - Présent:** Développeur Python chez XYZ Entreprise
 
-  - **Juin 2018 - Déc 2018:** Stagiaire en Data Science chez ABC Startup
-    
-    - Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.
-    - Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.
-    - Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.
+- Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.
+- Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.
+- Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.
+- Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.
+
+- **Juin 2018 - Déc 2018:** Stagiaire en Data Science chez ABC Startup
+
+- Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.
+- Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.
+- Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.
 </details>
 
 ## Formation
