@@ -47,8 +47,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	    </ul>
 	  </li>
 	</ul>
-<\p>
-
 </details>
 
 ## Formation
