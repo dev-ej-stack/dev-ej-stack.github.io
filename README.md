@@ -4,52 +4,32 @@
 
 [comment]: <> (Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.)
 
+Bienvenue sur la page de présentation de mon portfolio. Je suis un développeur spécialisé en Python, Selenium, Data Science et Finance. Avec une solide expérience dans ces domaines, je peux fournir des solutions informatiques de haute qualité pour répondre à vos besoins. Voici un aperçu de mes compétences et de mes réalisations :
 
+## Compétences
 
+- Programmation Python avancée
+- Automatisation web avec Selenium
+- Analyse de données et manipulation avec Python
+- Modélisation et prévision financière
+- Visualisation de données
+- Développement d'applications web
 
+## Projets Réalisés
 
-<img src="images/demo.gif?raw=true"/>
+Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-### Installation
+1. **Automatisation de tests web avec Selenium** - J'ai développé un framework d'automatisation de tests web en utilisant Selenium et Python. Ce framework a permis à l'équipe de test de gagner du temps et d'assurer la qualité des applications web.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+2. **Analyse de données financières** - J'ai réalisé une analyse approfondie des données financières d'une entreprise en utilisant Python et les bibliothèques de Data Science telles que Pandas et NumPy. J'ai produit des visualisations significatives et des recommandations basées sur les résultats obtenus.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+3. **Développement d'une application de suivi des dépenses** - J'ai créé une application web permettant aux utilisateurs de suivre leurs dépenses et de générer des rapports détaillés. J'ai utilisé Django pour le développement backend et JavaScript pour le frontend.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
 
-### Markdown
+Si vous souhaitez en savoir plus sur mon travail ou discuter de projets potentiels, n'hésitez pas à me contacter :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Email : [votre@email.com](mailto:votre@email.com)
+- Téléphone : [+XX XXX XXX XXX](tel:+XXXXXXXXXXX)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+Merci d'avoir visité mon portfolio !
