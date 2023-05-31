@@ -29,7 +29,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 Si vous souhaitez en savoir plus sur mon travail ou discuter de projets potentiels, n'hésitez pas à me contacter :
 
-- Email : [votre@email.com](mailto:votre@email.com)
-- Téléphone : [+XX XXX XXX XXX](tel:+XXXXXXXXXXX)
+- Email : [votre@email.com](mailto:eder.valderrama@usp.br)
 
 Merci d'avoir visité mon portfolio !
