@@ -1,3 +1,7 @@
+- [Ligne du Temps](#ligne-du-temps)
+- [Formation](#formation)
+
+
 # Portfolio de Programmation Python, Selenium, Data Science et Finance
 
 ---
@@ -33,7 +37,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-## Ligne du Temps
+## Ligne du Temps<a name="ligne-du-temps"></a>
+
 
 <details>
 	<summary><strong>Details</strong></summary>
@@ -58,7 +63,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-## Formation
+## Formation<a name="formation"></a>
 
 <details>
 	<summary><strong>Details</strong></summary>
