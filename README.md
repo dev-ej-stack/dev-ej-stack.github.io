@@ -1,3 +1,9 @@
+<style>
+p {
+  text-align: justify;
+}
+</style>
+
 ## Portfolio de Programmation Python, Selenium, Data Science et Finance
 
 ### Introduction
@@ -48,9 +54,10 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	</ul>
 </details>
 
+## Formation
 
 <details>
-	<summary>Formation</summary>
+	<summary>Details</summary>
 	<ul>
 	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
 	    <ul>
@@ -64,10 +71,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	</ul>
 </details>
 
-## Formation
-
-- **2017 - 2019:** Master en Informatique - Spécialisation en Data Science, Université de Paris
-- **2014 - 2017:** Licence en Finance, Université de Lyon
 
 ## Contact
 
