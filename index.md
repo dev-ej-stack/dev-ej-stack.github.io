@@ -4,8 +4,6 @@
 
 ## Introduction
 
-[comment]: <> (Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.)
-
 Bienvenue sur la page de présentation de mon portfolio. Je suis un développeur spécialisé en Python, Selenium, Data Science et Finance. Avec une solide expérience dans ces domaines, je peux fournir des solutions informatiques de haute qualité pour répondre à vos besoins. Voici un aperçu de mes compétences et de mes réalisations :
 
 ---
