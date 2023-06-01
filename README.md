@@ -1,9 +1,3 @@
-<style>
-p {
-  text-align: justify;
-}
-</style>
-
 # Portfolio de Programmation Python, Selenium, Data Science et Finance
 
 ---
