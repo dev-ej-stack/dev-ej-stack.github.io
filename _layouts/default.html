@@ -50,6 +50,7 @@
     <![endif]-->
   </head>
   <body>
+    <button class="menu-btn" onclick="toggleMenu()">Menu</button>
     <div class="navbar">
       <a href="#ligne-du-temps">Ligne du Temps</a>
       <a href="#formation">Formation</a>
@@ -105,5 +106,11 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+    function toggleMenu() {
+      var menu = document.getElementById("menu");
+      menu.classList.toggle("show");
+    }
+  </script>  
   </body>
 </html>
