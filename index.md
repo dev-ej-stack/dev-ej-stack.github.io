@@ -32,11 +32,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 3. **Développement d'une application de suivi des dépenses** - J'ai créé une application web permettant aux utilisateurs de suivre leurs dépenses et de générer des rapports détaillés. J'ai utilisé Django pour le développement backend et JavaScript pour le frontend.
 
 ---
+<a name="ligne-du-temps"></a>
 
-## Ligne du Temps<a name="ligne-du-temps"></a>
+## Ligne du Temps
 
-
-<details>
+<details> 
 	<summary><strong>Details</strong></summary>
 	<ul>
 	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
