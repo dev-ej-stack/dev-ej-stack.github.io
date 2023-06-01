@@ -1,8 +1,10 @@
-# Portfolio de Programmation Python, Selenium, Data Science et Finance
+<div>
+    <h1>Portfolio de Programmation Python, Selenium, Data Science et Finance</h1>
+</div>
 
 ---
 
-<div >
+<div>
     <h2>Introduction</h2>
 </div>
 
