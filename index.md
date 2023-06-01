@@ -58,8 +58,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 </details>
 
 ---
+<a name="formation"></a>
 
-## Formation<a name="formation"></a>
+## Formation
 
 <details>
 	<summary><strong>Details</strong></summary>
