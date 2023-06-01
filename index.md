@@ -1,7 +1,3 @@
-- [Ligne du Temps](#ligne-du-temps)
-- [Formation](#formation)
-
-
 # Portfolio de Programmation Python, Selenium, Data Science et Finance
 
 ---
