@@ -1,34 +1,33 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <style>
-  p {
-    text-align: justify;
-  }
+    body {
+      margin: 0;
+      padding-top: 40px; /* Adicione uma margem superior para não sobrepor o conteúdo do documento */
+    }
 
-body {
-  margin: 0;
-  padding-top: 40px; /* Adicione uma margem superior para não sobrepor o conteúdo do documento */
-}
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: #f8f8f8;
+      padding: 10px;
+    }
 
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background-color: #f8f8f8;
-  padding: 10px;
-}
+    .navbar a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
 
-.navbar a {
-  margin-right: 15px;
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-}
-
-.content {
-  margin-top: 60px; /* Adicione uma margem superior para evitar que o conteúdo seja ocultado pelo menu fixo */
-  padding: 20px;
-}
+    .wrapper {
+      margin-top: 60px; /* Adicione uma margem superior para evitar que o conteúdo seja ocultado pelo menu fixo */
+      padding: 20px;
+    }
+    p {
+      text-align: justify;
+    }
 
   </style>
 
