@@ -28,7 +28,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 ## Ligne du Temps
 
 <details>
-	<summary>Details</summary>
+	<summary><strong>Details</strong></summary>
 	<ul>
 	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
 	    <ul>
