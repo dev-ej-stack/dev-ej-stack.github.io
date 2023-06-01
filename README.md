@@ -57,7 +57,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 ## Formation
 
 <details>
-	<summary>Details</summary>
+	<summary><strong>Details</strong></summary>
 	<ul>
 	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
 	    <ul>
