@@ -77,15 +77,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-## Contact
-
-Si vous souhaitez en savoir plus sur mon travail ou discuter de projets potentiels, n'hésitez pas à me contacter :
-
-- Email : [eder.valderrama@usp.br](mailto:eder.valderrama@usp.br)
-
-Merci d'avoir visité mon portfolio !
-
-
 ## Selected projects in data science, machine learning and NLP
 
 ---
