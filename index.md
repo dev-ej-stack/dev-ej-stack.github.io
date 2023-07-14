@@ -79,8 +79,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	  </li>
 	  <li><strong>2016 - 2019 :  Banque Safra S.A. (Brésil)</strong>
 	    <ul>
-	      <li>Banque Safra est un acteur important et respecté du secteur bancaire brésilien et international, se classant parmi les dix plus grandes institutions financières du secteur privé en termes d'actifs totaux. Les activités de la banque s'étendent au-delà des opérations de prêt traditionnelles pour inclure la location, la souscription de titres, la gestion de fonds d'investissement, la courtage, les opérations d'assurance et de cartes de crédit. La banque est également active dans le financement du commerce, la gestion d'actifs et les opérations de trésorerie.</li>
 		  <li>Attributions : J'intègre une équipe qui travaille avec des conseils juridiques et des recherches d'actifs, avec une attention particulière aux questions internationales grâce à l'utilisation d'outils technologiques.</li>
+		  <li>Utilisation de bibliothèques Python telles que Pandas, Selenium et SQL avec Excel VBA pour effectuer des tâches de traitement et de visualisation de données.</li>
 	    </ul>
 	  </li>
 
