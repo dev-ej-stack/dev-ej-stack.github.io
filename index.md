@@ -63,7 +63,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 <details> 
 	<summary><strong>Details</strong></summary>
 	<ul>
-	  <li><strong>2023 : Web Développeur et Big Data</strong>
+	  <li><strong>2023 : Web Développeur et expert en Big Data</strong>
 	    <ul>
 	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
 	      <li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
@@ -101,13 +101,15 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 <details>
 	<summary><strong>Details</strong></summary>
 	<ul>
-	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
+	  <li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
 	    <ul>
-	      <li>**2017 - 2019:** Master en Informatique - Spécialisation en Data Science, Université de Paris
-- **2014 - 2017:** Licence en Finance, Université de Lyon</li>
-	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
-	      <li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
-	      <li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
+	      <li>Spécialisation en Data Science, Université de São Paulo, Brésil</li>
+	      <li>Maîtrise en Administration des Affaires - MBA, Data Science, Analyse de Données et Apprentissage Automatique</li>
+	    </ul>
+	  </li>
+	  <li><strong>2019 - 2022 : </strong>Sciences économiques - USP/FEA
+	    <ul>
+	      <li>Baccalauréat en Sciences économiques pour l'École d’économie de l’Université de São Paulo, Brésil</li>
 	    </ul>
 	  </li>
 	</ul>
