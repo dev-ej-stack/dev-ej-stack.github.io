@@ -36,6 +36,7 @@
 - Modélisation et prévision financière
 - Visualisation de données
 - Développement d'applications web
+- Traitement distribué de Big Data avec Spark
 
 ---
 
@@ -48,6 +49,8 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 2. **Analyse de données financières** - J'ai réalisé une analyse approfondie des données financières d'une entreprise en utilisant Python et les bibliothèques de Data Science telles que Pandas et NumPy. J'ai produit des visualisations significatives et des recommandations basées sur les résultats obtenus.
 
 3. **Développement d'une application de suivi des dépenses** - J'ai créé une application web permettant aux utilisateurs de suivre leurs dépenses et de générer des rapports détaillés. J'ai utilisé Django pour le développement backend et JavaScript pour le frontend.
+
+4. **Traitement distribué de Big Data avec Spark** - J'ai une expérience avec Spark, une plateforme Big Data, qui m'a permis de traiter et d'analyser de grands ensembles de données de manière distribuée. J'ai utilisé Spark pour effectuer des opérations avancées telles que le traitement par lots, les jointures complexes et l'analyse de données en temps réel.
 
 ---
 <a name="ligne-du-temps"></a>
