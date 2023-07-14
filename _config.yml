@@ -4,6 +4,7 @@ title: Eder VALDERRAMA # your name (or website title) here
 logo: ![logo](/images/logo.png?raw=true){:height="90px" width="90px"}
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Je suis un développeur passionné avec 6+ ans d'expérience en Python, Selenium, Data Science et Finance. Titulaire d'une licence en économie et d'une maîtrise en science des données de l'<a href='https://www5.usp.br/' target="_blank" rel="noopener noreferrer">Université de São Paulo</a>. J'ai travaillé chez <a href='https://www.credit-suisse.com/br/pt/quem-somos.html' target="_blank" rel="noopener noreferrer">Credit Suisse</a>, <a href="https://www.safra.com.br/" target="_blank" rel="noopener noreferrer">Banco Safra</a> et <a href="https://www.pinheironeto.com.br/" target="_blank" rel="noopener noreferrer">Pinheiro Neto Advogados</a>. Maîtrise de SQL pour les bases de données, Docker pour le déploiement et Spark pour le Big Data. <a href="https://www.linkedin.com/in/eder-v-4b371b282" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+  
   <br>Email: <a href='eder.valderrama@usp.br' target="_blank" rel="noopener noreferrer">eder.valderrama@usp.br</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
