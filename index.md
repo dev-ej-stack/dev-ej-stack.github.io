@@ -1,5 +1,4 @@
 <!-- https://dev-ej-stack.github.io/ -->
-
 <div>
     <h1>Portfolio - Python, Selenium, Data Science, Big Data et Finance</h1>
 </div>
