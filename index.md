@@ -63,7 +63,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 <details> 
 	<summary><strong>Details</strong></summary>
 	<ul>
-	  <li><strong>Jan 2019 - Présent:</strong> Développeur Python chez XYZ Entreprise
+	  <li><strong>2023:</strong> Développeur Python 
 	    <ul>
 	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
 	      <li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
@@ -71,11 +71,10 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	      <li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
 	    </ul>
 	  </li>
-	  <li><strong>Juin 2018 - Déc 2018:</strong> Stagiaire en Data Science chez ABC Startup
+	  <li><strong>2021 - 2022 :  Credit Suisse Brésil</strong>
 	    <ul>
-	      <li>Travaillé sur des projets de Data Science impliquant l'exploration, la manipulation et l'analyse de grandes quantités de données.</li>
+	      <li>Attributions : automatisation des processus et des communications (Python/RPA), création automatique de tableaux de bord (VBA), test des contrôles opérationnels.
 	      <li>Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.</li>
-	      <li>Développement de modèles prédictifs pour résoudre des problèmes de classification et de régression.</li>
 	    </ul>
 	  </li>
 	</ul>
