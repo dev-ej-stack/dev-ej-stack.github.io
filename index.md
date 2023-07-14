@@ -47,7 +47,7 @@
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-1. **Automatisation de tests web avec Selenium** - J'ai développé un framework d'automatisation de tests web en utilisant Selenium et Python. Ce framework a permis à l'équipe de test de gagner du temps et d'assurer la qualité des applications web.
+1. **Automatisation de tests web avec Selenium** - J’ai développé un framework d’automatisation de tests web en utilisant Selenium et Python, incluant l'automatisation de la collecte de données. Ce framework a permis à l’équipe de test de gagner du temps, d'assurer la qualité des applications web et d'automatiser la collecte de données.
 
 2. **Analyse de données financières** - J'ai réalisé une analyse approfondie des données financières d'une entreprise en utilisant Python et les bibliothèques de Data Science telles que Pandas et NumPy. J'ai produit des visualisations significatives et des recommandations basées sur les résultats obtenus.
 
