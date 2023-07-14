@@ -99,24 +99,24 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 <a name="formation"></a>
 
 ## Formation
-
-<details>
-	<summary><strong>Détails</strong></summary>
-	<ul>
-	  <li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
-	    <ul>
-	      <li>Spécialisation en Data Science, Université de São Paulo, Brésil</li>
-	      <li>Maîtrise en Administration des Affaires - MBA, Data Science, Analyse de Données et Apprentissage Automatique</li>
-	    </ul>
-	  </li>
-	  <li><strong>2019 - 2022 : </strong>Sciences économiques - USP/FEA
-	    <ul>
-	      <li>Baccalauréat en Sciences économiques pour l'École d’économie de l’Université de São Paulo, Brésil</li>
-	    </ul>
-	  </li>
-	</ul>
-</details>
-
+<div style="text-align: justify;">
+	<details>
+		<summary><strong>Détails</strong></summary>
+		<ul>
+		<li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
+			<ul>
+			<li>Spécialisation en Data Science, Université de São Paulo, Brésil</li>
+			<li>Maîtrise en Administration des Affaires - MBA, Data Science, Analyse de Données et Apprentissage Automatique</li>
+			</ul>
+		</li>
+		<li><strong>2019 - 2022 : </strong>Sciences économiques - USP/FEA
+			<ul>
+			<li>Baccalauréat en Sciences économiques pour l'École d’économie de l’Université de São Paulo, Brésil</li>
+			</ul>
+		</li>
+		</ul>
+	</details>
+</div>
 ---
 
 ## Deep NLP for hate speech detection
