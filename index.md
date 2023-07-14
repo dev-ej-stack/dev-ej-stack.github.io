@@ -83,12 +83,12 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 		  <li>Utilisation de bibliothèques Python telles que Pandas, Selenium et SQL avec Excel VBA pour effectuer des tâches de traitement et de visualisation de données.</li>
 	    </ul>
 	  </li>
-
-
- 
-
-
-
+	  <li><strong>2015 - 2016 :  Looplex S.A. (Startup Brésil)</strong>
+	    <ul>
+		  <li>Attributions : J'ai travaillé sur des questions juridiques, la programmation de code, le développement de produits et les questions commerciales.Looplex est une start-up en sciences humaines numériques dans le domaine du droit computationnel qui développe des systèmes pour la rédaction, l'analyse empirique et l'interprétation de documents juridiques en langage naturel. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP). J'ai travaillé sur la programmation de code, le développement de produits et les questions commerciales.</li>
+		  <li>Utilisation de Java, Git, SQL et API, agile methodologies avec backend web développement.</li>
+	    </ul>
+	  </li>
 	</ul>
 </details>
 
