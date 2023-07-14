@@ -63,12 +63,13 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 <details> 
 	<summary><strong>Details</strong></summary>
 	<ul>
-	  <li><strong>2023:</strong> Développeur Python 
+	  <li><strong>2023 : Web Développeur et Big Data</strong>
 	    <ul>
 	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
 	      <li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
 	      <li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
 	      <li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
+		  <li>Traitement distribué de Big Data avec Spark</li>
 	    </ul>
 	  </li>
 	  <li><strong>2021 - 2022 :  Credit Suisse Brésil</strong>
