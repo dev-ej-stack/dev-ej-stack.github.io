@@ -86,7 +86,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 	  </li>
 	  <li><strong>2015 - 2016 :  Looplex S.A. (Startup Brésil)</strong>
 	    <ul>
-		  <li>Attributions : J'ai travaillé sur la programmation de code et le développement de web produits. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP). J'ai travaillé sur la programmation de code, le développement de produits et les questions commerciales.</li>
+		  <li>Attributions : J'ai travaillé sur la programmation de code, le développement de web produits et avec des calculs financiers. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP).</li>
 		  <li>Utilisation de Java, Git, SQL et API, agile methodologies avec backend web développement.</li>
 	    </ul>
 	  </li>
