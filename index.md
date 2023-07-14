@@ -60,38 +60,40 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ## Parcours professionnel
 
-<details> 
-	<summary><strong>Details</strong></summary>
-	<ul>
-	  <li><strong>2023 : Web Développeur et expert en Big Data</strong>
-	    <ul>
-	      <li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
-	      <li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
-	      <li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
-	      <li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
-		  <li>Traitement distribué de Big Data avec Spark</li>
-	    </ul>
-	  </li>
-	  <li><strong>2021 - 2022 :  Credit Suisse Brésil</strong>
-	    <ul>
-	      <li>Attributions : automatisation des processus et des communications (Python/RPA), création automatique de tableaux de bord (VBA), test des contrôles opérationnels.</li>
-	      <li>Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.</li>
-	    </ul>
-	  </li>
-	  <li><strong>2016 - 2019 :  Banque Safra S.A. (Brésil)</strong>
-	    <ul>
-		  <li>Attributions : J'intègre une équipe qui travaille avec des conseils juridiques et des recherches d'actifs, avec une attention particulière aux questions internationales grâce à l'utilisation d'outils technologiques.</li>
-		  <li>Utilisation de bibliothèques Python telles que Pandas, Selenium et SQL avec Excel VBA pour effectuer des tâches de traitement et de visualisation de données.</li>
-	    </ul>
-	  </li>
-	  <li><strong>2015 - 2016 :  Looplex S.A. (Startup Brésil)</strong>
-	    <ul>
-		  <li>Attributions : J'ai travaillé sur la programmation de code, le développement de web produits et avec des calculs financiers. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP).</li>
-		  <li>Utilisation de Java, Git, SQL et API, agile methodologies avec backend web développement.</li>
-	    </ul>
-	  </li>
-	</ul>
-</details>
+<div style="text-align: justify;">
+	<details> 
+		<summary><strong>Détails</strong></summary>
+		<ul>
+		<li><strong>2023 : Web Développeur et expert en Big Data</strong>
+			<ul>
+			<li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
+			<li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
+			<li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
+			<li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
+			<li>Traitement distribué de Big Data avec Spark</li>
+			</ul>
+		</li>
+		<li><strong>2021 - 2022 :  Credit Suisse Brésil</strong>
+			<ul>
+			<li>Attributions : automatisation des processus et des communications (Python/RPA), création automatique de tableaux de bord (VBA), test des contrôles opérationnels.</li>
+			<li>Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.</li>
+			</ul>
+		</li>
+		<li><strong>2016 - 2019 :  Banque Safra S.A. (Brésil)</strong>
+			<ul>
+			<li>Attributions : J'intègre une équipe qui travaille avec des conseils juridiques et des recherches d'actifs, avec une attention particulière aux questions internationales grâce à l'utilisation d'outils technologiques.</li>
+			<li>Utilisation de bibliothèques Python telles que Pandas, Selenium et SQL avec Excel VBA pour effectuer des tâches de traitement et de visualisation de données.</li>
+			</ul>
+		</li>
+		<li><strong>2015 - 2016 :  Looplex S.A. (Startup Brésil)</strong>
+			<ul>
+			<li>Attributions : J'ai travaillé sur la programmation de code, le développement de web produits et avec des calculs financiers. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP).</li>
+			<li>Utilisation de Java, Git, SQL et API, agile methodologies avec backend web développement.</li>
+			</ul>
+		</li>
+		</ul>
+	</details>
+</div>
 
 ---
 <a name="formation"></a>
@@ -99,7 +101,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 ## Formation
 
 <details>
-	<summary><strong>Details</strong></summary>
+	<summary><strong>Détails</strong></summary>
 	<ul>
 	  <li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
 	    <ul>
