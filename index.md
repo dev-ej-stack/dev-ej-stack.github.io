@@ -157,6 +157,5 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 </div>
 
 ---
----
 
 <iframe src="Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
