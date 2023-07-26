@@ -159,4 +159,8 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 
 <iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
 
+<!-- https://simpleicons.org/ 
+
 <a href="https://raw.githubusercontent.com/dev-ej-stack/dev-ej-stack.github.io/main/2023-07-24_Bigdata_split_dataset.slides.html" target="_blank" download >Télécharger la présentation.</a>
+
+-->
