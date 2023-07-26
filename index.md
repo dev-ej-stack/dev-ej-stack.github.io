@@ -141,8 +141,6 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 [![](https://img.shields.io/badge/docker-white?logo=docker)](#)
 
 
-<a href="https://raw.githubusercontent.com/dev-ej-stack/dev-ej-stack.github.io/main/2023-07-24_Bigdata_split_dataset.slides.html" download target="_blank" rel="noopener noreferrer">Télécharger la présentation.</a>
-
 <div>                        
 	<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script type="text/javascript">/**
@@ -159,3 +157,5 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 ---
 
 <iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
+
+<a href="https://raw.githubusercontent.com/dev-ej-stack/dev-ej-stack.github.io/main/2023-07-24_Bigdata_split_dataset.slides.html" target="_blank" download >Télécharger la présentation.</a>
