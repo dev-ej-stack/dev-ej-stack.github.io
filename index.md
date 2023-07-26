@@ -141,7 +141,7 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 [![](https://img.shields.io/badge/docker-white?logo=docker)](#)
 
 
-[Download presentation](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
+[Télécharger la présentation.](https://raw.githubusercontent.com/dev-ej-stack/dev-ej-stack.github.io/main/2023-07-24_Bigdata_split_dataset.slides.html)
 
 <div>                        
 	<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
