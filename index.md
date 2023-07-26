@@ -123,12 +123,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ## Big Data - Bourse de Toronto
 
-Charger un ensemble de fichiers de données avec des informations unifiées.
-Séparer l'ensemble complet de données en ensembles plus petits, divisés selon la valeur des colonnes, en utilisant des techniques de traitement des big data pour réduire le temps de chargement et d'exécution.
-L'ensemble de données comprend des entreprises cotées à la Bourse de Toronto.
-Diviser les entreprises et les détails selon le secteur d'activité.
-Évaluer les statistiques des entreprises cotées.
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
@@ -139,6 +133,13 @@ Diviser les entreprises et les détails selon le secteur d'activité.
 [![](https://img.shields.io/badge/apacheparquet-white?logo=apacheparquet)](#)
 [![](https://img.shields.io/badge/linux-white?logo=linux)](#)
 [![](https://img.shields.io/badge/docker-white?logo=docker)](#)
+
+Charger un ensemble de fichiers de données avec des informations unifiées.
+Séparer l'ensemble complet de données en ensembles plus petits, divisés selon la valeur des colonnes, en utilisant des techniques de traitement des big data pour réduire le temps de chargement et d'exécution.
+L'ensemble de données comprend des entreprises cotées à la Bourse de Toronto.
+Diviser les entreprises et les détails selon le secteur d'activité.
+Évaluer les statistiques des entreprises cotées.
+
 
 
 <div>                        
