@@ -121,7 +121,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-## Big Data - Bourse de Toronto
+## Portfolio : Big Data - Bourse de Toronto
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
