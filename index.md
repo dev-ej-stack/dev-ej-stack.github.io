@@ -121,7 +121,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-## Portfolio : Big Data - Bourse de Toronto
+## Portfolio : Big Data - Bourse de Toronto - Canada
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
@@ -134,13 +134,18 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 [![](https://img.shields.io/badge/linux-white?logo=linux)](#)
 [![](https://img.shields.io/badge/docker-white?logo=docker)](#)
 
-Charger un ensemble de fichiers de données avec des informations unifiées.
-Séparer l'ensemble complet de données en ensembles plus petits, divisés selon la valeur des colonnes, en utilisant des techniques de traitement des big data pour réduire le temps de chargement et d'exécution.
-L'ensemble de données comprend des entreprises cotées à la Bourse de Toronto.
-Diviser les entreprises et les détails selon le secteur d'activité.
-Évaluer les statistiques des entreprises cotées.
 
+Dans ce projet de Big Data, j'ai travaillé sur un ensemble de fichiers de données de la Bourse de Toronto, en utilisant des techniques avancées de traitement des données pour améliorer l'efficacité et la performance du chargement et de l'exécution.
 
+Mes réalisations clés incluent :
+
+- Chargement des données brutes et unification des informations pour une analyse complète et approfondie.
+- Utilisation de techniques de découpage intelligent pour diviser l'ensemble complet de données en ensembles plus petits, basés sur des critères spécifiques tels que la valeur des colonnes.
+- Mise en œuvre de méthodes de traitement des Big Data pour optimiser le temps de chargement et d'exécution, améliorant ainsi l'efficacité globale du projet.
+- Classification des entreprises cotées en fonction de leur secteur d'activité pour une analyse plus ciblée.
+- Évaluation approfondie des statistiques financières des entreprises cotées pour fournir des informations précieuses aux parties prenantes.
+
+Ce projet a été réalisé en utilisant des technologies et outils tels que Python, PySpark, Pandas et d'autres solutions de traitement des données à grande échelle. J'ai également appliqué des compétences en modélisation de données et en analyse statistique pour obtenir des résultats précis et pertinents.
 
 <div>                        
 	<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
