@@ -202,31 +202,31 @@
 		<details> 
 			<summary><strong>Details</strong></summary>
 			<ul>
-			<li><strong>2023 : Web Développeur et expert en Big Data</strong>
+			<li><strong>2023 : Web Developer and Big Data expert</strong>
 				<ul>
-				<li>Développement de solutions logicielles en Python pour automatiser les processus et améliorer l'efficacité opérationnelle.</li>
-				<li>Utilisation de Selenium pour l'automatisation des tests web et la validation des fonctionnalités.</li>
-				<li>Manipulation et analyse de données avec Python pour générer des informations utiles et des rapports précis.</li>
-				<li>Modélisation financière et prévisions pour prendre des décisions éclairées en matière d'investissement.</li>
-				<li>Traitement distribué de Big Data avec Spark</li>
+				<li>Development of software solutions in Python to automate processes and improve operational efficiency.</li>
+				<li>Using Selenium for web test automation and feature validation.</li>
+				<li>Manipulate and analyze data with Python to generate useful insights and accurate reports.</li>
+				<li>Financial modeling and forecasting to make informed investment decisions.</li>
+				<li>Distributed Big Data Processing with Spark</li>
 				</ul>
 			</li>
-			<li><strong>2021 - 2022 :  Credit Suisse Brésil</strong>
+			<li><strong>2021 - 2022 :  Credit Suisse Brazil</strong>
 				<ul>
-				<li>Attributions : automatisation des processus et des communications (Python/RPA), création automatique de tableaux de bord (VBA), test des contrôles opérationnels.</li>
-				<li>Utilisation de bibliothèques Python telles que Pandas, NumPy et Matplotlib pour effectuer des tâches de traitement et de visualisation de données.</li>
+				<li>Responsibilities: automation of processes and communications (Python/RPA), automatic creation of dashboards (VBA), testing of operational controls.</li>
+				<li>Using Python libraries such as Pandas, NumPy, and Matplotlib to perform data processing and visualization tasks.</li>
 				</ul>
 			</li>
-			<li><strong>2016 - 2019 :  Banque Safra S.A. (Brésil)</strong>
+			<li><strong>2016 - 2019 :  Safra Bank S.A. (Brazil)</strong>
 				<ul>
-				<li>Attributions : J'intègre une équipe qui travaille avec des conseils juridiques et des recherches d'actifs, avec une attention particulière aux questions internationales grâce à l'utilisation d'outils technologiques.</li>
-				<li>Utilisation de bibliothèques Python telles que Pandas, Selenium et SQL avec Excel VBA pour effectuer des tâches de traitement et de visualisation de données.</li>
+				<li>Responsibilities: I integrate a team that works with legal advice and asset searches, with particular attention to international issues through the use of technological tools.</li>
+				<li>Using Python libraries such as Pandas, Selenium, and SQL with Excel VBA to perform data processing and visualization tasks.</li>
 				</ul>
 			</li>
-			<li><strong>2015 - 2016 :  Looplex S.A. (Startup Brésil)</strong>
+			<li><strong>2015 - 2016 :  Looplex S.A. (Startup Brazil)</strong>
 				<ul>
-				<li>Attributions : J'ai travaillé sur la programmation de code, le développement de web produits et avec des calculs financiers. Nos solutions permettent une interprétation algorithmique des arguments juridiques (analyse de citation juridique et réseaux de neurones avec NLP).</li>
-				<li>Utilisation de Java, Git, SQL et API, agile methodologies avec backend web développement.</li>
+				<li>Responsibilities: I worked on code programming, web product development and with financial calculations. Our solutions enable algorithmic interpretation of legal arguments (legal citation analysis and neural networks with NLP).</li>
+				<li>Use of Java, Git, SQL and API, agile methodologies with backend web development.</li>
 				</ul>
 			</li>
 			</ul>
@@ -234,20 +234,20 @@
 	</div>
 	<hr>
 	<a name="formation"></a>
-	<h2><span>Formation</span></h2>
+	<h2><span>Education</span></h2>
 	<div style="text-align: justify;">
 		<details>
-			<summary><strong>Détails</strong></summary>
+			<summary><strong>Details</strong></summary>
 			<ul>
 			<li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
 				<ul>
-				<li>Spécialisation en Data Science, Université de São Paulo, Brésil</li>
-				<li>Maîtrise en Administration des Affaires - MBA, Data Science, Analyse de Données et Apprentissage Automatique</li>
+				<li>Specialization in Data Science, University of São Paulo, Brazil</li>
+				<li>Master of Business Administration - MBA, Data Science, Data Analytics and Machine Learning</li>
 				</ul>
 			</li>
-			<li><strong>2019 - 2022 : </strong>Sciences économiques - USP/FEA
+			<li><strong>2019 - 2022 : </strong>Economics - USP/FEA
 				<ul>
-				<li>Baccalauréat en Sciences économiques pour l'École d’économie de l’Université de São Paulo, Brésil</li>
+				<li>Bachelor of Economics for the School of Economics of the University of São Paulo, Brazil</li>
 				</ul>
 			</li>
 			</ul>
@@ -285,27 +285,16 @@
 	<a href="#">
   		<img src="https://img.shields.io/badge/docker-white?logo=docker" alt="Docker">
 	</a>
-<!-- [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-	[![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
-	[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-	[![](https://img.shields.io/badge/Selenium-white?logo=selenium)](#)
-	[![](https://img.shields.io/badge/pandas-black?logo=pandas&color=white&logoColor=black)](#)
-	[![](https://img.shields.io/badge/Plotly-black?logo=Plotly&color=white&logoColor=blue)](#)
-	[![](https://img.shields.io/badge/apachespark-white?logo=apachespark)](#)
-	[![](https://img.shields.io/badge/apacheparquet-white?logo=apacheparquet)](#)
-	[![](https://img.shields.io/badge/linux-white?logo=linux)](#)
-	[![](https://img.shields.io/badge/docker-white?logo=docker)](#)
--->
-	<p>Dans ce projet de Big Data, j'ai travaillé sur un ensemble de fichiers de données de la Bourse de Toronto, en utilisant des techniques avancées de traitement des données pour améliorer l'efficacité et la performance du chargement et de l'exécution.</p>
-	<p>Mes réalisations clés incluent :</p>
+	<p>In this big data project, I worked on a set of Toronto Stock Exchange data files, using advanced data processing techniques to improve loading and execution efficiency and performance.</p>
+	<p>My key achievements include:</p>
 	<ul>
-		<li>Chargement des données brutes et unification des informations pour une analyse complète et approfondie.</li>
-		<li>Utilisation de techniques de découpage intelligent pour diviser l'ensemble complet de données en ensembles plus petits, basés sur des critères spécifiques tels que la valeur des colonnes.</li>
-		<li>Mise en œuvre de méthodes de traitement des Big Data pour optimiser le temps de chargement et d'exécution, améliorant ainsi l'efficacité globale du projet.</li>
-		<li>Classification des entreprises cotées en fonction de leur secteur d'activité pour une analyse plus ciblée.</li>
-		<li>Évaluation approfondie des statistiques financières des entreprises cotées pour fournir des informations précieuses aux parties prenantes.</li>
+		<li>Loading raw data and unifying information for comprehensive and in-depth analysis.</li>
+		<li>Using smart slicing techniques to divide the entire data set into smaller sets, based on specific criteria such as column values.</li>
+		<li>Implementation of big data processing methods to optimize loading and execution time, improving overall project efficiency.</li>
+		<li>Classification of listed companies according to their sector of activity for a more targeted analysis.</li>
+		<li>In-depth assessment of financial statistics of listed companies to provide valuable insights to stakeholders.</li>
 	</ul>
-	<p>Ce projet a été réalisé en utilisant des technologies et outils tels que Python, PySpark, Pandas et d'autres solutions de traitement des données à grande échelle. J'ai également appliqué des compétences en modélisation de données et en analyse statistique pour obtenir des résultats précis et pertinents.</p>
+	<p>This project was carried out using technologies and tools such as Python, PySpark, Pandas and other large-scale data processing solutions. I also applied skills in data modeling and statistical analysis to obtain accurate and relevant results.</p>
 </div>
 </details>
 
