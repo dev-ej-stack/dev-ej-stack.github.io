@@ -31,8 +31,9 @@
 
 
 ---
+<h1><span>FRANÇAIS</span></h1>
+<details>
 <div style="text-align: justify;">
-	<details><h2><span>FRANÇAIS</span></h2>
 	<h2><span>Compétences</span></h2>
 
 	- Programmation Python avancée
