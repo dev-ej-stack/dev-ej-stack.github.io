@@ -239,7 +239,7 @@
 		<details>
 			<summary><strong>Details</strong></summary>
 			<ul>
-			<li><strong>2022 - 2024 : </strong>MBA Data Science and Analytics - USP/Esalq
+			<li><strong>2022 - 2024 : </strong>MBA - Data Science and Analytics - USP/Esalq
 				<ul>
 				<li>Specialization in Data Science, University of São Paulo, Brazil</li>
 				<li>Master of Business Administration - MBA, Data Science, Data Analytics and Machine Learning</li>
@@ -254,7 +254,7 @@
 		</details>
 	</div>
 	<hr>
-	<h2><span>Portfolio : Big Data - Bourse de Toronto - Canada</span></h2>
+	<h2><span>Portfolio: Big Data - Toronto Stock Exchange - Canada</span></h2>
 	<a href="#">
   		<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
 	</a>
