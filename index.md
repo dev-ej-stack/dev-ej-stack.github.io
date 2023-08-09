@@ -112,6 +112,38 @@
 		</details>
 	</div>
 	<hr>
+	<h2><span>Portfolio: Data Science - Random Forest</span></h2>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Anaconda-white?logo=anaconda" alt="Anaconda">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="Scikit-Learn">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/pandas-black?logo=pandas&color=white&logoColor=black" alt="Pandas">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/linux-white?logo=linux" alt="Linux">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/docker-white?logo=docker" alt="Docker">
+		</a>
+		<p>Ce projet implique l'utilisation de l'apprentissage automatique pour prévoir les mouvements du marché boursier, en incorporant diverses sources de données et techniques pour une précision accrue et des perspectives commerciales.</p>
+		<ul>
+			<li>Nous utilisons l'apprentissage automatique, en particulier l'algorithme de la Forêt Aléatoire, pour prédire le prix de l'indice S&P du lendemain sur le marché boursier.</li>
+			<li>L'ensemble de données s'étend de 1993 et inclut diverses caractéristiques telles que les moyennes mobiles, les actualités économiques et les composants clés de l'indice S&P500.</li>
+			<li>Nous incorporons des techniques de validation croisée pour garantir une évaluation précise du modèle et un réglage des hyperparamètres.</li>
+			<li>La performance du modèle est mesurée par rapport aux mouvements réels du marché, en mettant l'accent sur la précision et la capacité à identifier les opportunités de trading.</li>
+			<li>Le projet explore des méthodes pour réduire le nombre de jours de trading grâce à des seuils et exploite des sources de données supplémentaires pour de meilleures prédictions.</li>
+ 		</ul>
+	<p></p>
+	<hr>
 	<h2><span>Portfolio : Big Data - Bourse de Toronto - Canada</span></h2>
 	<a href="#">
   		<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
