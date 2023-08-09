@@ -29,15 +29,13 @@
 [![](https://img.shields.io/badge/git-white?logo=git)](#)
 [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-<div>
-    <table style="border-collapse: collapse; width: 100%;">
-        <tr>
-            <td style="border: none; padding: 5px;">I am a passionate developer with 6+ years of experience in Python, Selenium, Data Science, and Finance. Holder of a bachelor's degree in Economics and a master's degree in Data Science from the University of São Paulo. Proficient in SQL for databases, Docker for deployment, and Spark for Big Data. I have worked at Credit Suisse, Banco Safra, and Pinheiro Neto Advogados.</td>
-        </tr>
-        <tr>
-            <td style="border: none; padding: 5px;">Je suis un développeur passionné avec plus de 6 ans d'expérience en Python, Selenium, Data Science et Finance. Titulaire d'une licence en économie et d'une maîtrise en science des données de l'Université de São Paulo. Compétent en SQL pour les bases de données, Docker pour le déploiement et Spark pour le Big Data. J'ai travaillé chez Credit Suisse, Banco Safra et Pinheiro Neto Advogados.</td>
-        </tr>
-    </table>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <p style="border: none; padding: 5px;">I am a passionate developer with 6+ years of experience in Python, Selenium, Data Science, and Finance. Holder of a bachelor's degree in Economics and a master's degree in Data Science from the University of São Paulo. Proficient in SQL for databases, Docker for deployment, and Spark for Big Data. I have worked at Credit Suisse, Banco Safra, and Pinheiro Neto Advogados.</p>
+    </div>
+    <div style="width: 48%;">
+        <p style="border: none; padding: 5px;">Je suis un développeur passionné avec plus de 6 ans d'expérience en Python, Selenium, Data Science et Finance. Titulaire d'une licence en économie et d'une maîtrise en science des données de l'Université de São Paulo. Compétent en SQL pour les bases de données, Docker pour le déploiement et Spark pour le Big Data. J'ai travaillé chez Credit Suisse, Banco Safra et Pinheiro Neto Advogados.</p>
+    </div>
 </div>
 
 <p>(FR)Je suis un développeur passionné avec 6+ ans d'expérience en Python, Selenium, Data Science et Finance. Titulaire d'une licence en économie et d'une maîtrise en science des données de l'<a href='https://www5.usp.br/' target="_blank" rel="noopener noreferrer">Université de São Paulo</a>. Maîtrise de SQL pour les bases de données, Docker pour le déploiement et Spark pour le Big Data. J'ai travaillé chez <a href='https://www.credit-suisse.com/br/pt/quem-somos.html' target="_blank" rel="noopener noreferrer">Credit Suisse</a>, <a href="https://www.safra.com.br/" target="_blank" rel="noopener noreferrer">Banco Safra</a> et <a href="https://www.pinheironeto.com.br/" target="_blank" rel="noopener noreferrer">Pinheiro Neto Advogados</a>.</p>
