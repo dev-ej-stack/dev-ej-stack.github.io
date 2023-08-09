@@ -112,7 +112,7 @@
 		</details>
 	</div>
 	<hr>
-	<h2><span>Portfolio: Data Science - Random Forest</span></h2>
+	<h2><span>Portefeuille : Science des données - Forêt Aléatoire</span></h2>
 		<a href="#">
 			<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
 		</a>
@@ -144,7 +144,7 @@
  		</ul>
 	<p></p>
 	<hr>
-	<h2><span>Portfolio : Big Data - Bourse de Toronto - Canada</span></h2>
+	<h2><span>Portefeuille : Big Data - Bourse de Toronto - Canada</span></h2>
 	<a href="#">
   		<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
 	</a>
