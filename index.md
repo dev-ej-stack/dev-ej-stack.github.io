@@ -284,9 +284,7 @@
 			<li>The model's performance is measured against real market movements, focusing on precision and the ability to identify trading opportunities.</li>
 			<li>The project explores methods to reduce the number of trading days through thresholds and leverages additional data sources for better predictions.</li>
  		</ul>
-		<p></p>
-	</div>
-	</details>
+	<p></p>
 	<hr>
 	<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
 	<hr>
