@@ -329,9 +329,9 @@
 </div>
 </details>
 <hr>
-	<iframe src="2023-08-08_Finance_Random_Forest_.slides.html" width="600" height="400"></iframe>
+<iframe src="2023-08-08_Finance_Random_Forest_.slides.html" width="600" height="400"></iframe>
 <hr>
-	<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
+<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
 <hr>
 <div>                        
 	<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
