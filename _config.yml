@@ -3,10 +3,11 @@ title: Eder VALDERRAMA # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 #logo: ![logo](/images/logo.png?raw=true){:height="90px" width="90px"}
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p>LinkedIn:</p>
-  <a href="https://www.linkedin.com/in/eder-v-4b371b282" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/eder-v-4b371b282</a>.
-  <p>E-mail:</p>
-  <a href='eder.valderrama@usp.br' target="_blank" rel="noopener noreferrer">eder.valderrama@usp.br</a>
+  <p>LinkedIn:
+  <a href="https://www.linkedin.com/in/eder-v-4b371b282" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/eder-v-4b371b282</a>.</p>
+  <p></p>
+  <p>E-mail:
+  <a href='eder.valderrama@usp.br' target="_blank" rel="noopener noreferrer">eder.valderrama@usp.br</a></p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
