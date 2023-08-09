@@ -5,7 +5,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p>LinkedIn:
   <p><a href="https://www.linkedin.com/in/eder-v-4b371b282" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/eder-v-4b371b282</a>.</p></p>
-  <p></p>
+  <p><hr></p>
   <p>E-mail:
   <p><a href='eder.valderrama@usp.br' target="_blank" rel="noopener noreferrer">eder.valderrama@usp.br</a></p></p>
   
