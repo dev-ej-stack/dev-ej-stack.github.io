@@ -285,9 +285,6 @@
 			<li>The project explores methods to reduce the number of trading days through thresholds and leverages additional data sources for better predictions.</li>
  		</ul>
 	<p></p>
-	<hr>
-	<iframe src="2023-08-08_Finance_Random_Forest_.slides.html" width="600" height="400"></iframe>
-	<hr>
 	<h2><span>Portfolio: Big Data - Toronto Stock Exchange - Canada</span></h2>
 	<a href="#">
   		<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
@@ -331,10 +328,10 @@
 	<p>This project was carried out using technologies and tools such as Python, PySpark, Pandas and other large-scale data processing solutions. I also applied skills in data modeling and statistical analysis to obtain accurate and relevant results.</p>
 </div>
 </details>
-
 <hr>
-<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
-
+	<iframe src="2023-08-08_Finance_Random_Forest_.slides.html" width="600" height="400"></iframe>
+<hr>
+	<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
 <hr>
 <div>                        
 	<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
