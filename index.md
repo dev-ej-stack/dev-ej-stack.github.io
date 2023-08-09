@@ -254,6 +254,42 @@
 		</details>
 	</div>
 	<hr>
+	<h2><span>Portfolio: Data Science - Random Forest</span></h2>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Anaconda-white?logo=anaconda" alt="Anaconda">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="Scikit-Learn">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/pandas-black?logo=pandas&color=white&logoColor=black" alt="Pandas">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/linux-white?logo=linux" alt="Linux">
+		</a>
+		<a href="#">
+			<img src="https://img.shields.io/badge/docker-white?logo=docker" alt="Docker">
+		</a>
+		<p>In this project involves utilizing machine learning to forecast stock market movements, incorporating various data sources and techniques for improved accuracy and trading insights.</p>
+		<ul>
+			<li>We utilize machine learning, particularly the Random Forest algorithm, to predict the next day's S&P index price in the stock market.</li>
+			<li>The dataset spans from 1993 and includes various features like rolling averages, economic news, and key components of the S&P500 index.</li>
+			<li>We incorporate cross-validation techniques to ensure accurate model evaluation and hyperparameter tuning.</li>
+			<li>The model's performance is measured against real market movements, focusing on precision and the ability to identify trading opportunities.</li>
+			<li>The project explores methods to reduce the number of trading days through thresholds and leverages additional data sources for better predictions.</li>
+ 		</ul>
+		<p></p>
+	</div>
+	</details>
+	<hr>
+	<iframe src="2023-07-24_Bigdata_split_dataset.slides.html" width="600" height="400"></iframe>
+	<hr>
 	<h2><span>Portfolio: Big Data - Toronto Stock Exchange - Canada</span></h2>
 	<a href="#">
   		<img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python">
