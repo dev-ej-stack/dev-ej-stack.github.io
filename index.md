@@ -40,6 +40,7 @@
 ---
 <h1><span>FRANÇAIS</span></h1>
 <details>
+<summary><strong>Détails</strong></summary>
 <div style="text-align: justify;">
 	<h2><span>Compétences</span></h2>
 	<ul>
