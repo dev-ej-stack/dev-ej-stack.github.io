@@ -26,6 +26,7 @@
 [![](https://img.shields.io/badge/podman-black?logo=podman&color=white&logoColor=black)](#)
 [![](https://img.shields.io/badge/kubernetes-white?logo=kubernetes)](#)
 [![](https://img.shields.io/badge/amazonaws-black?logo=amazonaws&color=white&logoColor=black)](#)
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
 [![](https://img.shields.io/badge/git-white?logo=git)](#)
 [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
