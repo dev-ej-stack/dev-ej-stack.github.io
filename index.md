@@ -215,6 +215,7 @@
 
 <h1><span>ENGLISH</span></h1>
 <details>
+<summary><strong>Details</strong></summary>
 <div style="text-align: justify;">
 	<h2><span>Competencies</span></h2>
 	<ul>
